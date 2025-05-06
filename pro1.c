@@ -1,4 +1,3 @@
-Here's a simple C program to perform division:
 #include <stdio.h>
 
 int main() {
