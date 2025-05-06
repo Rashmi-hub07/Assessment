@@ -2,6 +2,7 @@
 int main()
 {
 	int i, j, prime;
+       printf("The prime number between 5 and 50 are:");
 
 	for( i=5; i<=50; i++ ) {
 		prime = 1;
