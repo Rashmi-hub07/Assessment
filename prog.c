@@ -7,6 +7,7 @@ int main()
          sum=i+j;
 
          printf("The sum ofi and j is %d", i, j, sum);
-        return 0;
+        
+	 return 0;
 }
 
